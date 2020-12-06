@@ -1,6 +1,6 @@
 # Anti-Theft Alarm Motion Detecting System
 
-##Done as a Project for the Digital Signal Processing Module
+## Done as a Project for the Digital Signal Processing Module
 
 
 The main idea of this project is that the whole system is at one place, with the ultrasonic sensor facing the door which is supposed to be observed. 
